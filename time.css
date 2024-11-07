@@ -373,9 +373,9 @@ screen and (min-width: 961px) {
     }
 
     .hhonbun {
-        width: 96%;
+        width: 90%;
         margin: auto;
-        text-align: center;
+        text-align: left;
         padding-top: 0.1px;
         font-family: "Myfont3", "Myfont4", 'Arial', sans-serif;
         font-size: 2.2rem;
