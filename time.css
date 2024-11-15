@@ -128,26 +128,38 @@ body {
         margin: auto;
     }
 
-    .hhonbun {
+    .hhonbun2 {
         width: 96%;
         margin: auto;
-        text-align: left;
+        text-align: center;
         padding-top: 0.1px;
         font-family: "Myfont3", "Myfont4", 'Arial', sans-serif;
         font-size: 2rem;
     }
 
-    .hhonbun p span {
+    .hhonbun2 p span {
         font-size: 2.8rem;  
     }
     
-    .hhonbun img {
+    .hhonbun2 img {
         height: 2.8rem;
         vertical-align:top;
         margin-right: 5px;
         filter: invert(100%);
         filter: contrast(0%);
         filter: brightness(0);
+    }
+    
+    .hhonbun {
+        width: 96%;
+        margin: auto;
+        text-align: left;
+        font-family: "Myfont3", "Myfont4", 'Arial', sans-serif;
+        font-size: 2rem;
+    }
+
+    .hhonbun p span {
+        font-size: 2.8rem;  
     }
 
     .allsita {
